@@ -1,39 +1,5 @@
 [
   {
-    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
-    "title": "Tipping the Velvet",
-    "upc": "90fa61229261140a",
-    "product_type": "books",
-    "price_excl_tax": 53.74,
-    "product_incl_tax": 53.74,
-    "tax": 0.0,
-    "availability": 20,
-    "num_reviews": 0,
-    "stars": 1,
-    "category": "historical fiction",
-    "description": [
-      "\"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins. ...more"
-    ],
-    "price": 53.74
-  },
-  {
-    "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
-    "title": "Rip it Up and Start Again",
-    "upc": "a34ba96d4081e6a4",
-    "product_type": "books",
-    "price_excl_tax": 35.02,
-    "product_incl_tax": 35.02,
-    "tax": 0.0,
-    "availability": 19,
-    "num_reviews": 0,
-    "stars": 5,
-    "category": "music",
-    "description": [
-      "Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; w Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; whether experimenting with electronics and machine rhythm or adapting ideas from dub reggae and disco, they were totally confident they could invent a whole new future for music. ...more"
-    ],
-    "price": 35.02
-  },
-  {
     "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
     "title": "A Light in the Attic",
     "upc": "a897fe39b1053632",
@@ -68,21 +34,72 @@
     "price": 52.29
   },
   {
-    "url": "https://books.toscrape.com/catalogue/olio_984/index.html",
-    "title": "Olio",
-    "upc": "feb7cc7701ecf901",
+    "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+    "title": "It's Only the Himalayas",
+    "upc": "a22124811bfa8350",
     "product_type": "books",
-    "price_excl_tax": 23.88,
-    "product_incl_tax": 23.88,
+    "price_excl_tax": 45.17,
+    "product_incl_tax": 45.17,
     "tax": 0.0,
     "availability": 19,
     "num_reviews": 0,
-    "stars": 1,
-    "category": "poetry",
+    "stars": 2,
+    "category": "travel",
     "description": [
-      "Part fact, part fiction, Tyehimba Jess's much anticipated second book weaves sonnet, song, and narrative to examine the lives of mostly unrecorded African American performers directly before and after the Civil War up to World War I. Olio is an effort to understand how they met, resisted, complicated, co-opted, and sometimes defeated attempts to minstrelize them.So, while Part fact, part fiction, Tyehimba Jess's much anticipated second book weaves sonnet, song, and narrative to examine the lives of mostly unrecorded African American performers directly before and after the Civil War up to World War I. Olio is an effort to understand how they met, resisted, complicated, co-opted, and sometimes defeated attempts to minstrelize them.So, while I lead this choir, I still find thatI'm being led…I'm a missionarymending my faith in the midst of this flock…I toil in their fields of praise. When folks seethese freedmen stand and sing, they hear their Godspeak in tongues. These nine dark mouths sing shelter;they echo a hymn's haven from slavery's weather.Detroit native Tyehimba Jess' first book of poetry, leadbelly, was a winner of the 2004 National Poetry Series. Jess, a Cave Canem and NYU Alumni, has received fellowships from the Whiting Foundation, National Endowment for the Arts, Illinois Arts Council, and the Provincetown Fine Arts Work Center. Jess is also a veteran of the 2000 and 2001 Green Mill Poetry Slam Team. He exhibited his poetry at the 2011 TEDxNashville Conference. Jess is an Associate Professor of English at College of Staten Island. ...more"
+      "“Wherever you go, whatever you do, just . . . don’t do anything stupid.” —My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and wa “Wherever you go, whatever you do, just . . . don’t do anything stupid.” —My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and watched as her friend was attacked by a monkey in Indonesia.But interspersed in those slightly more crazy moments, Sue Bedfored and her friend \"Sara the Stoic\" experienced the sights, sounds, life, and culture of fifteen countries. Joined along the way by a few friends and their aging fathers here and there, Sue and Sara experience the trip of a lifetime. They fall in love with the world, cultivate an appreciation for home, and discover who, or what, they want to become.It's Only the Himalayas is the incredibly funny, sometimes outlandish, always entertaining confession of a young backpacker that will inspire you to take your own adventure. ...more"
     ],
-    "price": 23.88
+    "price": 45.17
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "upc": "deda3e61b9514b83",
+    "product_type": "books",
+    "price_excl_tax": 57.25,
+    "product_incl_tax": 57.25,
+    "tax": 0.0,
+    "availability": 19,
+    "num_reviews": 0,
+    "stars": 3,
+    "category": "music",
+    "description": [
+      "This is the never-before-told story of the musical revolution that happened right under the nose of the Reagan Eighties--when a small but sprawling network of bands, labels, fanzines, radio stations, and other subversives reenergized American rock with punk rock's do-it-yourself credo and created music that was deeply personal, often brilliant, always challenging, and imme This is the never-before-told story of the musical revolution that happened right under the nose of the Reagan Eighties--when a small but sprawling network of bands, labels, fanzines, radio stations, and other subversives reenergized American rock with punk rock's do-it-yourself credo and created music that was deeply personal, often brilliant, always challenging, and immensely influential. This sweeping chronicle of music, politics, drugs, fear, loathing, and faith has been recognized as an indie rock classic in its own right. Among the bands profiled: Mission of Burma, Butthole Surfers, The Minutemen, Sonic Youth, Black Flag, Big Black, Hüsker Dü, Fugazi, Minor Threat, Mudhoney, The Replacements, Beat Happening, and Dinosaur Jr. ...more"
+    ],
+    "price": 57.25
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+    "title": "Rip it Up and Start Again",
+    "upc": "a34ba96d4081e6a4",
+    "product_type": "books",
+    "price_excl_tax": 35.02,
+    "product_incl_tax": 35.02,
+    "tax": 0.0,
+    "availability": 19,
+    "num_reviews": 0,
+    "stars": 5,
+    "category": "music",
+    "description": [
+      "Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; w Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; whether experimenting with electronics and machine rhythm or adapting ideas from dub reggae and disco, they were totally confident they could invent a whole new future for music. ...more"
+    ],
+    "price": 35.02
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+    "title": "Libertarianism for Beginners",
+    "upc": "a18a4f574854aced",
+    "product_type": "books",
+    "price_excl_tax": 51.33,
+    "product_incl_tax": 51.33,
+    "tax": 0.0,
+    "availability": 19,
+    "num_reviews": 0,
+    "stars": 2,
+    "category": "politics",
+    "description": [
+      "Libertarianism isn't about winning elections; it is first and foremost a political philosophy--a description of how, in the opinion of libertarians, free people ought to treat one another, at least when they use the law, which they regard as potentially dangerous. If libertarians are correct, the law should intrude into people's lives as little as possible, rarely telling Libertarianism isn't about winning elections; it is first and foremost a political philosophy--a description of how, in the opinion of libertarians, free people ought to treat one another, at least when they use the law, which they regard as potentially dangerous. If libertarians are correct, the law should intrude into people's lives as little as possible, rarely telling them what to do or how to live.A political and economic philosophy as old as John Locke and John Stuart Mill, but as alive and timely as Rand Paul, the Tea Party, and the novels of Ayn Rand, libertarianism emphasizes individual rights and calls for a radical reduction in the power and size of government. \"Libertarianism For Beginners\" lays out the history and principles of this often-misunderstood philosophy in lucid, dispassionate terms that help illuminate today's political dialogue.\" ...more"
+    ],
+    "price": 51.33
   },
   {
     "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
